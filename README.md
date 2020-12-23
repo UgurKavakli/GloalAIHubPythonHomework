@@ -2,7 +2,7 @@
 
 Salut from Datca/Mugla!
 
-I know basics of C# but this is my first steps into Python. I should say it's painful but rewarding.
+I know basics of C# but this is my first steps into Python. I should say it's been painful but rewarding.
 
 This Readme file is gonna serve as a place where I can write my post homework notes throughout this course.
 
