@@ -1,3 +1,6 @@
+import datetime
+
+current_year = datetime.datetime.now().year
 my_list = []
 def ErrorLine():
     print("\nType Error: Please enter a valid value.")
@@ -41,6 +44,9 @@ while True:
         ErrorLine()
         continue
     if (year<0):
+        ErrorLine()
+        continue
+    elif(current_year - age != year):
         ErrorLine()
         continue
     else:
