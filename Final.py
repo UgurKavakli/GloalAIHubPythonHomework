@@ -73,7 +73,7 @@ else:
     while True:
         for i, n in enumerate(course_list, 1):
             print(f"{i}. {n}")
-        answer = input("\nPlease enter the index of the course to add exam results" +
+        answer = input("\nPlease enter the index of the course to add exam results " +
                        "or type 'X' to exit ")
         try:
             int(answer)
